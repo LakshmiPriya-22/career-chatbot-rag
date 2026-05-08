@@ -1,0 +1,17 @@
+# Virtual environment
+career311/
+
+# Environment variables
+.env
+
+# Chroma database
+chroma_db/
+
+# Python cache
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
